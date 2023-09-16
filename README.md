@@ -66,7 +66,7 @@
 
 •   [Microsoft 365 Certified: Teams Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/LinusObu-0314/8372A55CA629F3B2?sharingId=37E33BD37275F688)
 
-•   [Verified International Academic Qualifications WES](https://www.credly.com/badges/15a12431-43cb-4db8-ae15-d66db674c2a1/public_url)
+•   [Verified International Academic Qualifications WES](https://www.credly.com/badges/e3cda8a3-ddf7-47fc-bb99-4f7b20489a12/public_url)
 
 •   [Microsoft Certified Trainer](https://www.credly.com/badges/4b2489a8-c19b-4f2e-a753-7262b02b576d/public_url)
 
