@@ -3,7 +3,7 @@
 <h2>👨‍💻 Microsoft 365 Projects:</h2>  
 
   - [Active Directory Home Lab](https://github.com/obulinus)<b>
-  - [Secured Network Architecture ](https://github.com/fabbiety/Network-Security-Project/blob/main/README.md#secured-network-architecture-)<b><i>(Design include NIDS)</b></i>
+  - [Secured Network Architecture ](https://imgur.com/a/SwsAU8n)<b><i>(Design include NIDS)</b></i>
 - <b>Information Gathering  </b>
   - [Identifying Vulnerabilities in the target network](https://github.com/fabbiety/Network-Security-Project/blob/main/README.md#identifying-vulnerabilities-in-the-target-network)<b><i>(Zenmap tool for “intense scan” )</b></i>
   - [Identifying Vulnerabilities in the target Host](https://github.com/fabbiety/Network-Security-Project/blob/main/README.md#identifying-vulnerabilities-in-the-target-host)<b><i>(NMAP tool for “intense scan” )</b></i>
